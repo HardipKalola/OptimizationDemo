@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  OptimizationDemo
-//
-//  Created by sotsys-236 on 29/03/19.
-//  Copyright © 2019 sotsys-236. All rights reserved.
-//
+
 
 import UIKit
 
